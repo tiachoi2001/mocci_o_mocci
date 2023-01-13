@@ -1,9 +1,0 @@
-server > conf > httpd.conf > DocumentRoot ./../전체 파일 이름
-
-server restart > mapache.exe
-
-탭 이모티콘 설정: <link rel="shortcut icon" href="사진.png">
-
-형광하늘색: #78edfd
-
-톤다운 블루: rgba(89, 137, 200, 0.953)
